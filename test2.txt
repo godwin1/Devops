@@ -1,0 +1,5 @@
+welcome to project 1
+
+this file is Devops/ test2.txt. 
+
+ the goal is working as a pro
